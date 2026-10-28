@@ -2,9 +2,8 @@
 
 
 - 👨‍🏫 Estou atualmente estudando no Instituto Federal do Paraná (IFPR) Campus Paranaguá.
-- 💡 Estou aprendendo atualmente Laravel!
+- 💡 Estou aprendendo atualmente cloud (AWS)
 - 📚 Gostaria de desenvolver e melhorar cada vez mais minhas habilidades técnicas! 
-- 📖 Planejo estudar typescript no futuro!
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ThierryYama&layout=compact)](https://github.com/ThierryYama/github-readme-stats)
 
